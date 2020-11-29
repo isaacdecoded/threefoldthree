@@ -1,4 +1,9 @@
-# Next + Netlify Starter
+# 333 | Threefold three
+
+Website for -Threefold three- project. Artistic expression through music, then writing and conceptualizing life from a multiverse perspective.
+
+### Technologies based site:
+#### Next + Netlify Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed50f56e-4fc2-4c98-8b66-1e5074c6f3d3/deploy-status)](https://app.netlify.com/sites/next-starter/deploys)
 
@@ -10,7 +15,7 @@ This project is a very minimal starter that includes 2 sample components, a glob
 
 (If you click this button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify)
 
-## Getting Started
+##### Getting Started
 
 First, run the development server:
 
@@ -24,7 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-### Installation options
+##### Installation options
 
 **Option one:** One-click deploy
 

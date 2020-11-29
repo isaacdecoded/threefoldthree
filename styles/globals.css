@@ -11,12 +11,14 @@ body {
 }
 
 main {
-  padding: 5rem 0;
-  flex: 1;
-  display: flex;
+  /*padding: 5rem 0;*/
+  /*flex: 1;*/
+  /*display: flex;*/
+  background-color: #0e0e0e;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 95vh;
 }
 
 code {
@@ -28,8 +30,8 @@ code {
 
 .container {
   height: 100vh;
-  display: flex;
-  flex-direction: column;
+  /*display: flex;*/
+  /*flex-direction: column;*/
   justify-content: center;
   align-items: center;
 }
